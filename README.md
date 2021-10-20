@@ -1,7 +1,5 @@
-- 👋 Olá, eu sou, Luizsilvpereira! Seja bem vindo! 
+-  Olá, eu sou, Luiz Eduardo! Seja bem vindo! 👋
 
-- 👀 Eu estou me descobrindo na programação e atualmente estou estudando Frontend.
-- 📫 meu email: Luiz.sil.pereira@gmail.com
 
 <div align="center">
   <a href="https://github.com/Luizsilvpereira">
